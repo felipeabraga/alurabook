@@ -1,2 +1,2 @@
 # alurabook
-Project made during  responsive pages course.
+Project made during Alura's responsive pages course.
